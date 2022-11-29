@@ -1,0 +1,15 @@
+species,RcolorID,lat,N,Texp,mass,peak_distance
+Spea intermontana,raw,temperate,8,27,1.0670125,0.08075
+Pseudacris regilla,raw,temperate,10,27,,0.2174
+Ascaphus truei,raw,temperate,10,24,0.82512,0.3062
+Limnodynastes tasmaniensis,raw,temperate,60,30,,0.345
+Lithobates clamitans,raw,temperate,9,20,,0.474444444
+Rana pipiens,raw,temperate,5,25,,0.647
+Limnodynastes peronii,raw,temperate,17,30,,0.67
+Limnodynastes peronii,raw,temperate,12,16,23.3,0.94
+Limnodynastes peronii,raw,temperate,24,24,22.7,0.98
+Limnodynastes peronii,raw,tropical,13,28,9.5,1.07
+Limnodynastes peronii,raw,tropical,14,28,5.14,1.16
+Limnodynastes peronii,raw,temperate,22,32,7.5,1.16
+,average,temperate,,25.5,,
+,average,tropical,,28,,
