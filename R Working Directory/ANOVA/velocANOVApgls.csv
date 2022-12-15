@@ -1,0 +1,15 @@
+species,lat,RcolorID,N,Texp,peak_velocity
+Acris_blanchardi,temperate,raw,7,35,2.872954804
+Charadrahyla_nephila,tropical,raw,5,26,3.063484992
+Exerodonta_abdivita,tropical,raw,6,26,2.521248821
+Hyla_arenicolor,temperate,raw,7,35,2.797337531
+Hyla_avivoca,temperate,raw,8,26,2.490523994
+Hyla_cinerea,temperate,raw,7,35,2.790127302
+Limnodynastes_peronii,tropical,raw,27,30,3.115
+Rana_clamitans,temperate,raw,9,20,1.946666667
+Pseudacris_crucifer,temperate,raw,7,35,2.596482016
+Pseudacris_fouquettei,temperate,raw,6,35,2.144840955
+Ptychohyla_zophodes,tropical,raw,7,20,2.509849976
+Smilisca_baudinii,tropical,raw,6,35,3.997955503
+Smilisca_cyanosticta,tropical,raw,6,32,3.326997228
+Tlalocohyla_smithii,tropical,raw,1,32,2.48496482
