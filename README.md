@@ -12,7 +12,7 @@ The "R Working Directory" folder contains 3 subfolders, each of which contain fi
 - "Performance Curves" contains the files necessary to duplicate my creations of performance curves for each of the 19 species from the database used in my first paper, Hess (2022). This folder should be used in conjuction with the HTML or qmd formatted R codes entitled "FrogPerformanceCurves."
 - "Phylogenetic Trees" contains files used to create the phylogenetic trees in my first paper, Hess (2022). The .nex files were imported into TreeAnnotator as described in Hess (2022) and gave the .tre files as output, which were visualized in FigTree and exported as the .jpg files.
 
-The "R Codes (HTML format)" and "R Codes (qmd format)" compressed zip folders can be used, once downloaded, to view the coding and associated outputs for the ANOVAs, performance curves, and phylogenetic tree creations. Each code should be utilized with the files in its associated "R Working Directory" subfolder as described above.
+The "R Codes (HTML format)" and "R Codes (qmd format)" compressed zip folders can be used, once downloaded, to view the coding and associated outputs for the ANOVAs, performance curves, and phylogenetic tree creations. Each code should be utilized with the files in its associated "R Working Directory" subfolder as described above. I recommend using the codes in .qmd format.
 
 Please feel free to leave comments, concerns, and/or edit suggestions in the "Issues" or "Projects" tab of this repository.
 
